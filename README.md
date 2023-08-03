@@ -4,6 +4,8 @@
 
 Contains plugin for offer module, which hydrates customer into an offer.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
